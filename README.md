@@ -5,7 +5,7 @@ High-school student learning **cybersecurity**, programming and game development
 <p align="center">
   <a href="https://github.com/Kaezuria"><img src="https://img.shields.io/badge/GitHub-Kaezuria-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
   <a href="https://www.instagram.com/novadash.real/"><img src="https://img.shields.io/badge/Instagram-Novadash-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://x.com/Yoruhane"><img src="https://img.shields.io/badge/X-%40Yoruhane-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://x.com/VeryTuffGuyy"><img src="https://img.shields.io/badge/X-%40VeryTuffGuyy-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 </p>
 
 ## 🌸 A little about me
