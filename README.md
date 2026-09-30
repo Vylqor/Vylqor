@@ -1,4 +1,4 @@
-# 💫 Hi, I'm Kaezuria
+# 💫 Hi, I'm Vylqor
 
 High-school student learning **cybersecurity**, programming and game development. I build small projects to understand how things work, experiment with new technologies and have fun along the way. 💻🔐🎮
 
