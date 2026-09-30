@@ -51,14 +51,14 @@ High-school student learning **cybersecurity**, programming and game development
 ## 📊 GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Kaezuria&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="Kaezuria's GitHub stats">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Kaezuria&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Most used languages">
+  <img src="https://github-readme-stats.shion.dev/api?username=Vylqor&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="Vylqor's GitHub stats">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Vylqor&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Most used languages">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Kaezuria&theme=dark&hide_border=true" alt="GitHub streak">
+  <img src="https://streak-stats.demolab.com/?user=Vylqor&theme=dark&hide_border=true" alt="GitHub streak">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kaezuria&icon=0&color=6" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=Vylqor&icon=0&color=6" alt="Profile views">
 </p>
