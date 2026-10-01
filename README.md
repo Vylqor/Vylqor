@@ -40,12 +40,12 @@ High-school student learning **cybersecurity**, programming and game development
 ## 🌸 Anime corner
 
 <p align="center">
-  <img src="./Tanya.jpg" width="500" alt="Tanya the Evil">
+  <img src="./Nino.jpg" width="500" alt="Tanya the Evil">
 </p>
 
 <p align="center">
-  <b>😈 Tanya Degurechaff 😈</b><br>
-  Military • Strategy • War
+  <b>♡𓆪 Nino Nakano 𓆩♡</b><br>
+ Romance • Tsundere • Fashion
 </p>
 
 ## 📊 GitHub activity
