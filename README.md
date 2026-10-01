@@ -44,7 +44,7 @@ High-school student learning **cybersecurity**, programming and game development
 </p>
 
 <p align="center">
-  <b>♡𓆪 Nino Nakano 𓆩♡</b><br>
+  <b>𓆩♡𓆪 Nino Nakano 𓆩♡𓆪</b><br>
  Romance • Tsundere • Fashion
 </p>
 
