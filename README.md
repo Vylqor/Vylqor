@@ -44,7 +44,7 @@ High-school student learning **cybersecurity**, programming and game development
 </p>
 
 <p align="center">
-  <b>😈 Tanya the Evil 😈</b><br>
+  <b>😈 Tanya Degurechaff 😈</b><br>
   Military • Strategy • War
 </p>
 
