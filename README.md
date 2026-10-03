@@ -60,5 +60,5 @@ High-school student learning **cybersecurity**, programming and game development
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vylqor&label=Profile%20Views&color=6&style=flat" alt="Profile views">
+  <img src="https://viewcounter.live/Vylqor?label=Profile%20Views" alt="Profile Views">
 </p>
