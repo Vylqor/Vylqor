@@ -37,15 +37,15 @@ High-school student learning **cybersecurity**, programming and game development
   <img src="https://img.shields.io/badge/Tor-7E4798?style=for-the-badge&logo=torproject&logoColor=white" alt="Tor">
 </p>
 
-## 🌸 Anime corner
+## 🏎️ Car Corner
 
 <p align="center">
-  <img src="./Nino.jpg" width="500" alt="Tanya the Evil">
+  <img src="./Regera.jpg" width="500" alt="Koenigsegg Regera">
 </p>
 
 <p align="center">
-  <b>𓆩♡𓆪 Nino Nakano 𓆩♡𓆪</b><br>
- Romance • Tsundere • Fashion
+  <b>𓆩🏁𓆪 Koenigsegg Regera 𓆩🏁𓆪</b><br>
+  Hypercar • Hybrid Performance • Swedish Engineering
 </p>
 
 ## 📊 GitHub activity
