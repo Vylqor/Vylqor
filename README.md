@@ -8,7 +8,7 @@ High-school student learning **cybersecurity**, programming and game development
   <a href="https://x.com/VeryTuffGuyy"><img src="https://img.shields.io/badge/X-%40VeryTuffGuyy-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 </p>
 
-## 🌸 A little about me
+## 🏎️ A little about me
 
 - 🔐 Exploring cybersecurity and secure programming
 - 🎮 Creating small games and interactive projects
